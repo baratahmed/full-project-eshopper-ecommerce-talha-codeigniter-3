@@ -1,0 +1,8 @@
+http://cherisheddream.000webhostapp.com/eshopper
+
+baratahmed12301@gmail.com
+
+
+dbname: id12404065_eshopper
+dbuser: id12404065_eshopper
+pass: eshopper
